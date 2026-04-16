@@ -98,3 +98,46 @@ Uma string formatada no padrão:
 ## Código do Desafio
 O código está disponível neste repositório:  
 [Link para o desafio]()
+
+---
+
+## Abstração e Interfaces: Padronizando Colaboradores em Python
+
+Você trabalha em uma consultoria de TI que está desenvolvendo um sistema para padronizar o cadastro de diferentes tipos de colaboradores.  
+O objetivo é aplicar **abstração e interfaces** para garantir que todos os tipos de colaboradores sigam um mesmo padrão de comportamento, facilitando futuras expansões do sistema.
+
+### Regras de Negócio
+- Criar uma classe abstrata chamada **Colaborador** com um método abstrato `exibir_info()`.
+- Criar uma classe **Analista** que herda de **Colaborador** e implementa o método `exibir_info()`.
+- O método deve retornar a string:  
+  **"Analista: [nome]"**
+- O programa deve ler o nome do Analista e exibir a saída conforme o padrão.
+
+### Entrada
+Uma única linha contendo o nome do Analista (string, pode conter letras e espaços).
+
+### Saída
+Uma única linha com a string:  
+**"Analista: [nome]"**
+
+### Exemplos
+| Entrada      | Saída                 |
+|--------------|-----------------------|
+| Lucas        | Analista: Lucas       |
+| Maria Silva  | Analista: Maria Silva |
+| Joao         | Analista: Joao        |
+| Ana Paula    | Analista: Ana Paula   |
+
+---
+
+## Tecnologias Utilizadas
+- **Python**: implementação da lógica
+- **Classes Abstratas**: definição de métodos obrigatórios
+- **Herança**: classe concreta derivada da abstrata
+- **Interfaces e POO**: padronização de comportamento entre colaboradores
+
+---
+
+## Código do Desafio
+O código está disponível neste repositório:  
+[Link para o desafio]()
