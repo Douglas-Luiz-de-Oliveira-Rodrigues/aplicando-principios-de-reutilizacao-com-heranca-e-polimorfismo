@@ -48,7 +48,7 @@ Uma única linha:
 
 ## Código do Desafio
 O código está disponível neste repositório:  
-[Link para o desafio]()
+[Link para o desafio](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/aplicando-principios-de-reutilizacao-com-heranca-e-polimorfismo/blob/main/desafios/cliente_vip.py)
 
 ---
 
@@ -97,7 +97,7 @@ Uma string formatada no padrão:
 
 ## Código do Desafio
 O código está disponível neste repositório:  
-[Link para o desafio]()
+[Link para o desafio](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/aplicando-principios-de-reutilizacao-com-heranca-e-polimorfismo/blob/main/desafios/cadastro_robos.py)
 
 ---
 
@@ -140,4 +140,4 @@ Uma única linha com a string:
 
 ## Código do Desafio
 O código está disponível neste repositório:  
-[Link para o desafio]()
+[Link para o desafio](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/aplicando-principios-de-reutilizacao-com-heranca-e-polimorfismo/blob/main/desafios/colaborador_analista.py)
